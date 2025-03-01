@@ -52,13 +52,15 @@ Level of Failed Windows Activity:</b>
 <br />
 <br />
 
-- <b>Alert 2 (Treshold for Successful Account Logon):</b>
+- <b>Alert 2 (Threshold for Successful Account Logon):</b>
 Baseline and threshold for the hourly count of the signature “an account was successfully logged on.” The average events per hour was roughly 14. To account for outliers, the threshold was set to 15.
 
 <p align="center">
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Threshold for Successful Account Logon:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/WindowsAlert2.png?raw=true" height="80%" width="80%" alt="Windows Alert 2"/></p>
 <br />
 <br />
+
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
