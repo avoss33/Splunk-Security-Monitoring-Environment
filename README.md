@@ -39,10 +39,13 @@ Shows the organization if there is a suspicious level of failed activities on th
 
 <p align="center">
 Comparison of Success and Failure of Windows Activity: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/WindowsReport3.png?raw=true" height="80%" width="80%" alt="Windows Report 3"/></p>
+<br/>
+<h3>Windows Log Alerts</h3>
+- <b>Alert 1 (Level of Failed Windows Activity):</b>
+Baseline and threshold for the hourly level of failed Windows activity. The average events per hour was roughly 6 events. To account for outliers, the threshold was set to 7.
+
+<p align="center">
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
