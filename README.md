@@ -21,10 +21,14 @@ Shows the ID number associated with the specific signature for Windows activity.
 
 <p align="center">
 Signatures & Associated Signature ID’s Report: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Report 1"/>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/WindowsReport1.png?raw=true" height="80%" width="80%" alt="Report 1"/>
 <br />
 <br />
-Select the disk:  <br/>
+- <b>Report 2 (Windows Log Severity Levels):</b>
+Quickly understand the severity levels and percentages of each of the Windows logs.
+
+<p align="center">
+Windows Log Severity Levels: <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
