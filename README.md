@@ -74,8 +74,18 @@ Baseline and threshold for the hourly count of the signature “a user account w
 A Splunk dashboard is a collection of charts and visualizations that present data in a way that can help us identify issues. <br/>
 <p align="center">
 <b>Custom Analysis Dashboard:</b>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Windows%20Monitoring%20Dashboard.png" height="80%" width="80%" alt="Windows Monitoring Dashboard"/></p>
+<br />
+<br />
+
+<h3>Apache Log Reports</h3>
+- <b>Report 1 (Table of HTTP Methods):</b>
+Insight into the type of HTTP Activity being requested against VSI’s web server. </br>
+<p align="center">
+<b>Table of HTTP Methods:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Windows%20Monitoring%20Dashboard.png" height="80%" width="80%" alt="Windows Monitoring Dashboard"/></p>
+<br />
+<br />
 
 <!--
  ```diff
