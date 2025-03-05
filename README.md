@@ -91,14 +91,14 @@ Insight into the type of HTTP Activity being requested against the web server. <
 This will assist with identifying suspicious referrers. </br>
 <p align="center">
 <b>Top 10 Domains that Refer to the Organization's Website:</b>
-<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%201.png" height="80%" width="80%" alt="Apache Report 2"/></p>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%202.png" height="80%" width="80%" alt="Apache Report 2"/></p>
 <br />
 <br />
 
-- <b>Report 1 (Table of HTTP Methods):</b>
-Insight into the type of HTTP Activity being requested against VSI’s web server. </br>
+- <b>Report 3 (Count for Each HTTP Response Code):</b>
+This provides insight into any suspicious levels of HTTP responses. </br>
 <p align="center">
-<b>Table of HTTP Methods:</b>
+<b>Count for Each HTTP Response Code</b>
 <img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%201.png" height="80%" width="80%" alt="Apache Report 1"/></p>
 <br />
 <br />
