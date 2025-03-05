@@ -61,14 +61,19 @@ Threshold for Successful Account Logon:</b>
 <br />
 <br />
 
-- <b>Alert 3 (Threshold for User Account Deletion):<br/>
+- <b>Alert 3 (Threshold for User Account Deletion):<b/>
 Baseline and threshold for the hourly count of the signature “a user account was deleted.”
 
 <p align="center">
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Threshold for User Account Deletion:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/WindowsAlert3.png" height="80%" width="80%" alt="Windows Alert 3"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+
+<h3>Windows Log Dashboard</h3>
+A Splunk dashboard is a collection of charts and visualizations that present data in a way that can help us identify issues. <br/>
+<p align="center">
+<b>Custom Analysis Dashboard:</b>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
