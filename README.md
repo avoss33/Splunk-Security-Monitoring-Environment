@@ -80,12 +80,29 @@ A Splunk dashboard is a collection of charts and visualizations that present dat
 
 <h3>Apache Log Reports</h3>
 - <b>Report 1 (Table of HTTP Methods):</b>
+Insight into the type of HTTP Activity being requested against the web server. </br>
+<p align="center">
+<b>Table of HTTP Methods:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%201.png" height="80%" width="80%" alt="Apache Report 1"/></p>
+<br />
+<br />
+
+- <b>Report 2 (Top 10 Domains that Refer to the Organization's Website):</b>
+This will assist with identifying suspicious referrers. </br>
+<p align="center">
+<b>Top 10 Domains that Refer to the Organization's Website:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%201.png" height="80%" width="80%" alt="Apache Report 2"/></p>
+<br />
+<br />
+
+- <b>Report 1 (Table of HTTP Methods):</b>
 Insight into the type of HTTP Activity being requested against VSI’s web server. </br>
 <p align="center">
 <b>Table of HTTP Methods:</b>
-<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Windows%20Monitoring%20Dashboard.png" height="80%" width="80%" alt="Windows Monitoring Dashboard"/></p>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%201.png" height="80%" width="80%" alt="Apache Report 1"/></p>
 <br />
 <br />
+
 
 <!--
  ```diff
