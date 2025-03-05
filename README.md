@@ -119,16 +119,14 @@ Tallies up post HTTP requests per hour. The average events per hour was roughly 
 
 <p align="center">
 <b>Threshold for Hourly Count of HTTP POST Methods:</b>
-<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Log%20Alert%201.png" height="80%" width="80%" alt="Apache Alert 1"/></p>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Log%20Alert%202.png" height="80%" width="80%" alt="Apache Alert 2"/></p>
 <br />
 <br />
 
-- <b>Alert 1 (Threshold for Activity Outside the U.S.):</b>
-Baseline and threshold for hourly activity from any country besides the United States. The average events per hour was roughly 73. To account for outliers, the threshold was set to 85.
-
+<h3>Apache Logs Dashboard</h3>
 <p align="center">
-<b>Threshold for Activity Outside of the U.S.:</b>
-<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Log%20Alert%201.png" height="80%" width="80%" alt="Apache Alert 1"/></p>
+<b>Custom Analysis Dashboard:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Windows%20Monitoring%20Dashboard.png" height="80%" width="80%" alt="Windows Monitoring Dashboard"/></p>
 <br />
 <br />
 
