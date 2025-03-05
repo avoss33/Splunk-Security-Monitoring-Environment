@@ -1,10 +1,8 @@
 <h1>Designing a Splunk Security Monitoring Environment</h1>
 
-
 <h2>Description</h2>
 Project consists of using Splunk SIEM capabilities to build a custom security monitoring environment. Using reports, alerts, and dashboards, the objective was to ensure the created environment would make a fictional organization aware of several simulated attacks. I was tasked with monitoring a Windows operating system (running many of the company's back-end operations), and an apache web server (hosting the administrative webpage).
 <br/>
-
 
 <h2>Languages Used</h2>
 
@@ -130,11 +128,12 @@ Tallies up post HTTP requests per hour. The average events per hour was roughly 
 <br />
 <br />
 
-<h3>Attack Analysis</h3>
-After creating the monitoring environment, "attack" logs were ingested by the SIEM to see if we could detect suspicious activity or any cyber threats. </br>
-<p align="center">
-<b>Windows:</b>
-<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Dashboard.png" height="80%" width="80%" alt="Apache Monitoring Dashboard"/></p>
+<h3>Summary</h3>
+Now that we have a SIEM capable of reporting, emailing us alerts, and quick snapshots for analysis on our dashboards, our organization is in a great spot to monitor the health of our IT infrastructure. Before pushing into full-time use, test "attack" logs should be uploaded to see if threats are detected. If our environment is accurate, it can then be safely used. 
+
+
+
+
 
 
 
