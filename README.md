@@ -98,8 +98,18 @@ This will assist with identifying suspicious referrers. </br>
 - <b>Report 3 (Count for Each HTTP Response Code):</b>
 This provides insight into any suspicious levels of HTTP responses. </br>
 <p align="center">
-<b>Count for Each HTTP Response Code</b>
-<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%201.png" height="80%" width="80%" alt="Apache Report 1"/></p>
+<b>Count for Each HTTP Response Code:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/Apache%20Report%203.png" height="80%" width="80%" alt="Apache Report 3"/></p>
+<br />
+<br />
+
+<h3>Apache Log Alerts</h3>
+- <b>Alert 1 (Threshold for Activity Outside the U.S.):</b>
+Baseline and threshold for hourly activity from any country besides the United States. The average events per hour was roughly 73. To account for outliers, the threshold was set to 85.
+
+<p align="center">
+<b>Threshold for Activity Outside of the U.S.:</b>
+<img src="https://github.com/avoss33/Splunk-Security-Monitoring-Environment/blob/main/images/WindowsAlert1.png?raw=true" height="80%" width="80%" alt="Windows Alert 1"/></p>
 <br />
 <br />
 
