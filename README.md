@@ -61,7 +61,10 @@ Threshold for Successful Account Logon:</b>
 <br />
 <br />
 
-Sanitization complete:  <br/>
+- <b>Alert 3 (Threshold for User Account Deletion):<br/>
+Baseline and threshold for the hourly count of the signature “a user account was deleted.”
+
+<p align="center">
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
